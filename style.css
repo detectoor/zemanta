@@ -1,0 +1,50 @@
+div.body{
+	background-color: #657698;
+	padding-top: 250px;
+	padding-bottom: 800px;
+}
+div.form{
+	height: 380px;
+	width: 400px;
+	color: white;
+	background-color: #EF8421;
+	display: inline-block;
+	text-align: left;
+	padding-left: 30px;
+}
+div.info{
+	height: 380px;
+	width: 600px;
+	color:  white;
+	background-color: #3F547F;
+	display: inline-block;
+	text-align: left;
+	padding-left: 30px;
+}
+input.signin{
+	color: #EF8421;
+	background-color: white;
+	width: 200px;
+	padding: 10px;
+	border-radius: 7px;
+}
+button{
+	color: white;
+	background-color: #F29D4D;
+	width: 200px;
+	padding: 10px;
+	border-radius: 7px;
+}
+input{
+	width: 300px;
+	padding: 10px;
+	color: white;
+	background-color: #F29D4D;
+	border-radius: 7px;
+}
+p{
+	padding-left: 30px;
+}
+p.li{
+	padding-left: 60px;
+}
